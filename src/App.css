@@ -55,18 +55,3 @@ img{
   width: 190px;
   height: 200px;
 }
-button{
-  width: fit-content;
-  padding: 20px;
-  height: 30px;
-  font-size: 14px;
-  font-weight: 800;
-  letter-spacing: 4px;
-  display: flex;
-  text-align: center;
-  justify-content: center;
-  align-items: center;
-  border: solid 1px #ffffff;
-  background-color: inherit;
-  color: #ffffff;
-}
