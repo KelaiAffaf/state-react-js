@@ -1,6 +1,6 @@
 
 import { Component } from 'react'
-import Chat from '../components/Chat'
+import Chat from '../components/Using-Class/Chat'
 
 class Exo1 extends Component {
     constructor(props) {

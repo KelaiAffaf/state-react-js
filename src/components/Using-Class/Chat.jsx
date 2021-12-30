@@ -5,7 +5,8 @@ class Chat extends Component {
     constructor(props) {
         super(props);
         this.state = {
-            msg: ''
+            msg: '',
+            count:0
         };
     }
     inputChangeHandler = (e) => this.setState({ msg: e.target.value });
